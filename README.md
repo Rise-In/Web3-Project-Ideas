@@ -1,4 +1,7 @@
 # Web3-Project-Ideas
+
+## Table of Contents
+
 * [Social applications](#Social-applications)
 * [Games and NFTs](#games-and-NFTs)
 
