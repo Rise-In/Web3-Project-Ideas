@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* [Social applications](#Social-applications)
+* [Social Applications](#Social-applications)
 * [Games and NFTs](#games-and-NFTs)
 
 
-## Social applications
+## Social Applications
 
  ### [MetaTune](https://github.com/Sterioboy/metatune-app)  (Demo [here](https://ethglobal.com/showcase/metatune-muizg))
 
