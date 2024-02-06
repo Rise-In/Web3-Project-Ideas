@@ -4,6 +4,15 @@
 
 * [Social Applications](#Social-applications)
 * [Games and NFTs](#games-and-NFTs)
+* [Betting and Gambling](#Betting-and-gambling)
+* [Donation](#donation)
+* [Collaboration-Escrow](#Collaboration-escrow)
+* [Education](#Education)
+* [Finance](#Finance)
+* [Healthcare](#Healthcare)
+* [Supply Chain](#Supply-chain)
+* [DAOs](#DAOs)
+* [Resources](#Resources)
 
 
 ## Social Applications
